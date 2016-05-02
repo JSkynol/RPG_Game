@@ -3,6 +3,7 @@ My new RPG_Game
 #ideas
 3d Game
  -rpg game
+ 
  -oracle provides hints for quests 
  	- "i see you have dont quest A but person B needs their item still"
  	
